@@ -11,5 +11,5 @@ variable "component" {
 }
 
 variable "security_group_ids" {
-    default = ["sg-0f3b0b39c682f8a92"]
+  default = ["sg-0f3b0b39c682f8a92"]
 }
